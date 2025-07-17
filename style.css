@@ -579,6 +579,7 @@ body{
     }
    .slides{
     margin-top: 50px;
+       height:600px
    }
    .subdiv{
     display: grid;
@@ -752,10 +753,12 @@ body{
     height: 150px;
     width: 150px;
 }
+    .welcome{
+        font-size:30px;
 }
 @media screen and (max-width:330px) {
     .welcome{
-        font-size: 30px;
+        font-size: 28px;
     }
     
 }
